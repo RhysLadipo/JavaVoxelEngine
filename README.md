@@ -1,8 +1,8 @@
-### Hi there, I'm Rhys 👋
+### Hi I'm Rhys 👋
 
 [![Website](https://rhysladipo.github.io/)]
 
-## I'm a JAva Developer & a Graphic Designer.
+## I'm a Java Developer & Graphic Designer.
 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects
