@@ -1,13 +1,11 @@
-### Hi there, I'm Rhys - [Rhys Ladipo][website] 👋
+### Hi there, I'm Rhys 👋
 
 [![Website](https://rhysladipo.github.io/)]
 
-## I'm a Husband, Father, Developer, and Graphic Designer!!
+## I'm a JAva Developer & a Graphic Designer.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar.
 
 ##
 
